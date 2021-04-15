@@ -2,7 +2,7 @@
  * Longest increasinc consequent sequence
  * 
  * Run in ordered window on integer column
- * Returns max value of maximal value of subsequence from 1 and increasing by 1.
+ * Returns last value of longest subsequence from 1 and increasing by 1.
  * */-
 
 --------------------------------------------------------------------------------------------------------------------------------
