@@ -3,7 +3,7 @@
  * 
  * Run in ordered window on integer column
  * Returns last value of longest subsequence from 1 and increasing by 1.
- * */-
+ */
 
 --------------------------------------------------------------------------------------------------------------------------------
 DROP FUNCTION IF EXISTS lics_row CASCADE;
